@@ -1,3 +1,6 @@
+# This game is made by Kingson
+# Game written in python that guesses your number
+
 import random
 import time
 
